@@ -1,6 +1,6 @@
 ### Исходные данные
 
-Реляционная СУБД PostgreSQL с таблицами table1, table2, table3.\ 
+Реляционная СУБД PostgreSQL с таблицами table1, table2, table3.
 В каждой таблице есть поля id, name, decription. Тип - строка.
 
 ### Задание
