@@ -20,7 +20,7 @@ count - общее количество найденных записей в т�
 `git clone https://github.com/AnnaRozhnova/aspect-test.git`\
 `cd aspect-test`\
 `npm install`\
-`npm run test`\
+`npm run test`
 
 ### Результат
 
