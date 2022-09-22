@@ -1,0 +1,25 @@
+{
+  "name": "aspect-test",
+  "version": "1.0.0",
+  "description": "Реляционная СУБД PostgreSQL с таблицами table1, table2, table3.\r В каждой таблице есть поля id, name, decription. Тип - строка.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaRozhnova/aspect-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaRozhnova/aspect-test/issues"
+  },
+  "homepage": "https://github.com/AnnaRozhnova/aspect-test#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  },
+  "dependencies": {
+    "pg": "^8.8.0"
+  }
+}
