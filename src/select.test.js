@@ -1,4 +1,5 @@
 const select = require('./select');
+// Объект expected содержит ожидаемые данные для каждого из тест-кейсов
 const expected = require('./expected');
 
 
